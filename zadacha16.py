@@ -14,6 +14,5 @@ X = int(input())
 kol = 0
 user_list = list(range(1, N))
 if X in user_list:
-        kol += 1
+    kol+=1
 print(kol)
-
