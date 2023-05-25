@@ -44,7 +44,7 @@ def main():
         my_choice = int(input())
         operations = {1: printinfo, 2: export, 3: edit, 4: delete}
         operations[my_choice](data)
-    print('До свидания')
+print('До свидания')
 
 if __name__ == '__main__':
     main()
