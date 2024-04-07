@@ -15,4 +15,5 @@ def check_triangle(a, b, c):
 a = float(input("Введите длину стороны a: "))
 b = float(input("Введите длину стороны b: "))
 c = float(input("Введите длину стороны c: "))
+
 check_triangle(a, b, c)
